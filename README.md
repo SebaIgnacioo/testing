@@ -13,3 +13,7 @@ Nothing to say...
 ## Another test
 
 I've installed Manjaro Linux!
+
+## Testing MacOS
+
+I´m testing on my Mac
